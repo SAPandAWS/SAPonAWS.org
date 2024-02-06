@@ -10,5 +10,5 @@ Learn how to design a system that meets your business needs with the AWS Well-Ar
 
 
 
-![SAP PRESS Book](https://s3-eu-west-1.amazonaws.com/cover2.galileo-press.de/print/9781493224906_800_2d.png)
+![SAP PRESS Book](https://github.com/SAPandAWS/SAPonAWS.org/blob/master/assets/images/SAPonAWS.png)
  
